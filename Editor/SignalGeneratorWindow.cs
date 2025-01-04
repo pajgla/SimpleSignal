@@ -2,7 +2,7 @@ using System.IO;
 using UnityEditor;
 using UnityEngine;
 
-namespace Core.Editor
+namespace Signal.Editor
 {
     public class SignalGeneratorWindow : EditorWindow
     {

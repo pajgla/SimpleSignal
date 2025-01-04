@@ -1,6 +1,6 @@
 using System;
 
-namespace Core.Signals
+namespace Signals
 {
     public class Signal<T>
     {
